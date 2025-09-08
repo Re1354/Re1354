@@ -1,10 +1,8 @@
-# Hi 👋, I'm Redwan
-
-🚀 A passionate Developer from Bangladesh  
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">A passionate Developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on **Web Development** 
 
----
 
 ## 🛠️ Languages and Tools:
 <p align="left">
