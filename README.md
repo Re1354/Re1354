@@ -40,6 +40,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Re1354&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re1354&layout=compact&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Re1354&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fad000" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re1354&layout=compact&bg_color=30,904e95,1f1c2c&title_color=fff&text_color=fff" height="180em" />
 </p>
