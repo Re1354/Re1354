@@ -41,7 +41,8 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Re1354&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re1354&layout=compact&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re1354&layout=compact&theme=tokyonight" height="180em" style="margin-left:20px;" />
 </p>
+
 
 
