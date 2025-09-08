@@ -39,10 +39,6 @@
   <!-- VS Code -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Re1354&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re1354&layout=compact&theme=tokyonight" height="180em" style="margin-left:20px;" />
-</p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Re1354&show_icons=true&theme=tokyonight" height="180em" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re1354&layout=compact&theme=tokyonight" height="180em" /> </p>
 
 
