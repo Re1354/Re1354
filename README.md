@@ -6,7 +6,7 @@ I'm Md. Redwan, a Full-Stack Developer based in Dhaka, and you'll find me everyw
 Alongside that, I built CampusCart, a live multi-vendor marketplace on Node.js, Express, Prisma and PostgreSQL, with JWT authentication, role-based access control, transactional order flows, push notifications and an offline-ready PWA. I'm pursuing a B.Sc. in Computer Science & Engineering at Daffodil International University, with a focus on building practical software solutions.
 <blockquote>
   <p>
-    💡 <em>I'm open to opportunities in Full-Stack Development and Backend Engineering, with an interest in building scalable and reliable software solutions.</em>
+    💡 <em>Open to opportunities in Full-Stack Development and Backend Engineering, with an interest in building scalable and reliable software solutions.</em>
   </p>
 </blockquote>
  
