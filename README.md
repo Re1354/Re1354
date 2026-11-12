@@ -1,7 +1,5 @@
 <h1 align="center">~ Hello there! I'm Redwan ~</h1>
 
-<h3 align="center">Full-Stack Engineer · React · Node.js · PostgreSQL</h3>
-
 <p align="center">
   <a href="https://md-redwan.me"><img src="https://img.shields.io/badge/Portfolio-md--redwan.me-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:redwantahsin2002@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -30,10 +28,6 @@ My work runs in production today: an **admission examination platform** being ro
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Re1354&theme=tokyonight&hide_border=true&border_radius=10&card_width=900" width="100%" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/38bdf8/Re1354" width="100%" alt="Contribution chart"/>
 </p>
 
 <p align="center">
