@@ -15,9 +15,13 @@
 
 ## About
 
-I'm Md. Redwan, a Full-Stack Developer based in Dhaka. I'm currently building the Admission Test Management System at Daffodil International University, a role-based examination platform that replaces manual exam scheduling, candidate management and result publishing for the CSE Department. I work on the React admin and candidate portals with a team of six, integrate them with a large Django REST backend, and helped take the platform to production on a VPS with Nginx and SSL. It is now being rolled out across university faculties.
+I'm Md. Redwan, a Full-Stack Developer based in Dhaka, focused on building scalable web applications and reliable backend systems.
 
-Alongside that, I built CampusCart, a live multi-vendor marketplace on Node.js, Express, Prisma and PostgreSQL, with JWT authentication, role-based access control, transactional order flows, push notifications and an offline-ready PWA. I'm pursuing a B.Sc. in Computer Science & Engineering at Daffodil International University, with a focus on building practical software solutions.
+Currently working on the **Admission Test Management System at Daffodil International University**, a role-based examination platform designed to streamline examination workflows and currently being rolled out across university faculties. Alongside this, I previously developed **CampusCart**, a live multi-vendor marketplace.
+
+I enjoy solving complex problems through practical software solutions, with a particular interest in backend engineering, system design, API architecture, and scalable application development.
+
+Currently pursuing a B.Sc. in Computer Science & Engineering at Daffodil International University.
 
 <blockquote>
   <p>
