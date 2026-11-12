@@ -1,150 +1,83 @@
-# 👋 Hi, I'm Md. Redwan
 
-### Full-Stack Web Developer | Problem Solver | CSE Student
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Building+Scalable+Web+Applications;React+%7C+Next.js+%7C+Node.js;Always+Learning+and+Building" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi 👋, I'm Md. Redwan</h1>
+<h3 align="center">Full-Stack Web Developer | Problem Solver | Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <a href="https://github.com/Re1354">
-    <img src="https://komarev.com/ghpvc/?username=Re1354&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-  <a href="https://github.com/Re1354?tab=followers">
-    <img src="https://img.shields.io/github/followers/Re1354?label=Followers&style=social" alt="GitHub followers" />
-  </a>
-</p>
-
----
-
-## 🚀 About Me
-
-I'm a passionate **Full-Stack Web Developer** from Bangladesh, focused on building responsive, scalable, and user-friendly web applications.
-
-- 🎓 Pursuing B.Sc. in Computer Science & Engineering at **Daffodil International University**.
-- 💻 Experienced in building full-stack applications using **React, Next.js, Node.js, and Express.js**.
-- 🔐 Interested in secure REST APIs, JWT Authentication, and Role-Based Access Control (RBAC).
-- 🗄️ Experienced with **PostgreSQL, MongoDB, and MySQL**.
-- 🧩 Solved **300+ programming problems** on Codeforces and LeetCode.
-- 🌱 Always learning new technologies and improving my problem-solving skills.
-
----
-
-## 🛠️ Technical Skills
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,java,c,cpp,html,css" />
-</p>
-
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
-
-### Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
-</p>
-
-### Databases & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma,firebase,git,github,postman,vscode" />
-</p>
-
-**Additional Technologies:** TanStack Query, Recharts, Shadcn UI, JWT, RBAC, Workbox, Stripe, Cloudinary, Vercel.
-
----
-
-## 💼 Featured Projects
-
-### 🛒 CampusCart — Multi-Vendor E-commerce Platform
-A live marketplace built for the Daffodil International University community.
-
-- Developed Buyer, Vendor, and Admin portals.
-- Built 30+ REST APIs using Node.js, Express.js, Prisma ORM, and PostgreSQL.
-- Implemented JWT Authentication, RBAC, and transactional order management.
-- Integrated Firebase Cloud Messaging for real-time notifications.
-- Implemented PWA functionality using Workbox.
-
-### 📦 ZapShift — Parcel & Logistics Management
-A parcel booking, delivery tracking, and logistics management application.
-
-- Implemented Firebase Authentication and Role-Based Access Control.
-- Built parcel tracking and delivery analytics dashboards.
-- Developed REST APIs using Node.js, Express.js, and MongoDB.
-- Integrated Stripe payment processing.
-
-### 🎓 Admission Test Management System
-A digital admission examination platform developed for the CSE Department at DIU.
-
-- Developed React-based Admin and Candidate portals.
-- Integrated 139 Django REST API endpoints.
-- Supported an examination cycle involving nearly 600 students.
-- Contributed to production deployment using VPS, Nginx, and SSL.
-- Platform rollout across 6 university faculties.
-
-### ☀️ Sharif Smriti Foundation Website
-A Bengali-language website for a solar street-light initiative.
-
-- Built a responsive, mobile-first website using Next.js.
-- Created pricing packages, success stories, and customer inquiry features.
-- Integrated one-tap Call and WhatsApp actions.
-- Deployed using Vercel.
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Re1354&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re1354&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://md-redwan.me">Portfolio</a> •
+  <a href="https://github.com/Re1354">GitHub</a> •
+  <a href="mailto:redwantahsin2002@gmail.com">Email</a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Re1354&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;React+%7C+Next.js+%7C+Node.js;Turning+Ideas+Into+Digital+Solutions" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🏆 Achievements
+### 👨‍💻 About Me
 
-- 🧠 Solved **300+ problems** on Codeforces and LeetCode.
-- 🥇 Participated in **AI Dev Fest 2026 Hackathon** at Daffodil International University.
-- ☕ Completed Java Spring Boot Full-Stack Development Course.
-- 🚀 Contributed to production-level applications used by real users.
+- 🎓 CSE Student at **Daffodil International University** (CGPA: 3.85/4.00).
+- 💻 Full-Stack Developer focused on **React, Next.js, Node.js & Express.js**.
+- 🔐 Experienced in REST APIs, JWT Authentication & RBAC.
+- 🗄️ Working with PostgreSQL, MongoDB & MySQL.
+- 🧩 Solved **300+ problems** on Codeforces & LeetCode.
+- 🚀 Interested in building scalable and user-focused applications.
 
----
+### 🛠️ Tech Stack
 
-## 🎓 Education
+**Languages**
 
-**Daffodil International University**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-B.Sc. in Computer Science & Engineering
+**Frontend**
 
-- Expected Graduation: December 2026
-- CGPA: 3.85 / 4.00
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
----
+**Backend & Database**
 
-## 🤝 Connect With Me
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-<p align="left">
-  <a href="https://github.com/Re1354" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://md-redwan.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:redwantahsin2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+**Tools & Services**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| [CampusCart](YOUR_CAMPUSCART_REPO_URL) | Multi-vendor campus marketplace | React, Node.js, PostgreSQL |
+| [ZapShift](YOUR_ZAPSHIFT_REPO_URL) | Parcel & logistics management | React, Node.js, MongoDB |
+| [Admission Management](YOUR_ADMISSION_REPO_URL) | University admission examination platform | React, Django REST API |
+| [Sharif Smriti Foundation](YOUR_FOUNDATION_REPO_URL) | Bengali solar initiative website | Next.js |
+
+### 📊 GitHub Overview
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Re1354&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re1354&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 <p align="center">
-  <b>💡 Building today, improving tomorrow.</b>
+  💡 <b>Building today, improving every day.</b>
   <br/>
-  Thanks for visiting my profile! ⭐
+  ⭐ Thanks for visiting my profile!
 </p>
