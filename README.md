@@ -1,50 +1,150 @@
-<h1 align="center">Hi 👋, I'm Redwan</h1>
-<h3 align="center">A passionate Developer from Bangladesh</h3>
+# 👋 Hi, I'm Md. Redwan
 
-- 🔭 I’m currently working on **Web Development** 
+### Full-Stack Web Developer | Problem Solver | CSE Student
 
-
-## 🛠️ Languages and Tools:
-<p align="left">
-  <!-- C -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <!-- C++ -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <!-- HTML -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <!-- CSS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <!-- TailwindCSS -->
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  <!-- JavaScript -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <!-- Java -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <!-- Spring Boot -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-  <!-- React -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>
-  <!-- Firebase -->
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <!-- MySQL -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <!-- SQL -->
-  <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" width="40" height="40"/>
-  <!-- Postman -->
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <!-- Git -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <!-- VS Code -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Building+Scalable+Web+Applications;React+%7C+Next.js+%7C+Node.js;Always+Learning+and+Building" alt="Typing SVG" />
 </p>
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Re1354&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" height="180em" />
+<p align="center">
+  <a href="https://github.com/Re1354">
+    <img src="https://komarev.com/ghpvc/?username=Re1354&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://github.com/Re1354?tab=followers">
+    <img src="https://img.shields.io/github/followers/Re1354?label=Followers&style=social" alt="GitHub followers" />
+  </a>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re1354&layout=compact&theme=tokyonight&border_radius=10" height="180em" />
+---
 
-</div>
+## 🚀 About Me
 
+I'm a passionate **Full-Stack Web Developer** from Bangladesh, focused on building responsive, scalable, and user-friendly web applications.
 
+- 🎓 Pursuing B.Sc. in Computer Science & Engineering at **Daffodil International University**.
+- 💻 Experienced in building full-stack applications using **React, Next.js, Node.js, and Express.js**.
+- 🔐 Interested in secure REST APIs, JWT Authentication, and Role-Based Access Control (RBAC).
+- 🗄️ Experienced with **PostgreSQL, MongoDB, and MySQL**.
+- 🧩 Solved **300+ programming problems** on Codeforces and LeetCode.
+- 🌱 Always learning new technologies and improving my problem-solving skills.
 
+---
 
+## 🛠️ Technical Skills
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,java,c,cpp,html,css" />
+</p>
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+</p>
+
+### Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma,firebase,git,github,postman,vscode" />
+</p>
+
+**Additional Technologies:** TanStack Query, Recharts, Shadcn UI, JWT, RBAC, Workbox, Stripe, Cloudinary, Vercel.
+
+---
+
+## 💼 Featured Projects
+
+### 🛒 CampusCart — Multi-Vendor E-commerce Platform
+A live marketplace built for the Daffodil International University community.
+
+- Developed Buyer, Vendor, and Admin portals.
+- Built 30+ REST APIs using Node.js, Express.js, Prisma ORM, and PostgreSQL.
+- Implemented JWT Authentication, RBAC, and transactional order management.
+- Integrated Firebase Cloud Messaging for real-time notifications.
+- Implemented PWA functionality using Workbox.
+
+### 📦 ZapShift — Parcel & Logistics Management
+A parcel booking, delivery tracking, and logistics management application.
+
+- Implemented Firebase Authentication and Role-Based Access Control.
+- Built parcel tracking and delivery analytics dashboards.
+- Developed REST APIs using Node.js, Express.js, and MongoDB.
+- Integrated Stripe payment processing.
+
+### 🎓 Admission Test Management System
+A digital admission examination platform developed for the CSE Department at DIU.
+
+- Developed React-based Admin and Candidate portals.
+- Integrated 139 Django REST API endpoints.
+- Supported an examination cycle involving nearly 600 students.
+- Contributed to production deployment using VPS, Nginx, and SSL.
+- Platform rollout across 6 university faculties.
+
+### ☀️ Sharif Smriti Foundation Website
+A Bengali-language website for a solar street-light initiative.
+
+- Built a responsive, mobile-first website using Next.js.
+- Created pricing packages, success stories, and customer inquiry features.
+- Integrated one-tap Call and WhatsApp actions.
+- Deployed using Vercel.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Re1354&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re1354&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Re1354&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 🧠 Solved **300+ problems** on Codeforces and LeetCode.
+- 🥇 Participated in **AI Dev Fest 2026 Hackathon** at Daffodil International University.
+- ☕ Completed Java Spring Boot Full-Stack Development Course.
+- 🚀 Contributed to production-level applications used by real users.
+
+---
+
+## 🎓 Education
+
+**Daffodil International University**
+
+B.Sc. in Computer Science & Engineering
+
+- Expected Graduation: December 2026
+- CGPA: 3.85 / 4.00
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Re1354" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://md-redwan.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:redwantahsin2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>💡 Building today, improving tomorrow.</b>
+  <br/>
+  Thanks for visiting my profile! ⭐
+</p>
