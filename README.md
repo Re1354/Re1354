@@ -16,11 +16,8 @@
 ## About
 
 I'm Md. Redwan, a Full-Stack Developer based in Dhaka, focused on building scalable web applications and reliable backend systems.
-
 Currently working on the **Admission Test Management System at Daffodil International University**, a role-based examination platform designed to streamline examination workflows and currently being rolled out across university faculties. Alongside this, I previously developed **CampusCart**, a live multi-vendor marketplace.
-
 I enjoy solving complex problems through practical software solutions, with a particular interest in backend engineering, system design, API architecture, and scalable application development.
-
 Currently pursuing a B.Sc. in Computer Science & Engineering at Daffodil International University.
 
 <blockquote>
